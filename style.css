@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header, .footer {
+    height: 100px;
+    background-color: #7CEC9F;
+}
+
+.page-content {
+    position: relative;
+}
+
+.sidebar {
+    position: absolute;
+    top: 0;
+    left: 50px;
+    width: 100px;
+    background-color: #F5BCBA;
+}
+
+.content {
+    width: 200px;
+    margin: 0 auto;
+    background-color: #EAF0F1;
+}
